@@ -2,11 +2,11 @@
 > Roblox From 2013-19 remade!
 
 Hello and welcome to my side project: **Old Roblox: Reborn!**
-And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used.) and backpack, but not the Main Settings Menu just yet (It'll be out soon, though 
-:) )
+I decided to make this because the old Roblox gui is cool to me, and it's really fun to play with this kind of stuff.
 
 (Currently, only 2015-19 Gui style is done.)
-
+And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games.) but not the Main Settings Menu just yet (It'll be out soon, though 
+:) )
 # Features!
 
 - The ability to use Display Names in the Leaderboard and Chat, or not if you prefer!
