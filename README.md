@@ -2,7 +2,7 @@
 > Roblox From 2013-19 remade!
 
 Hello and welcome to my side project: **Old Roblox: Reborn!**
-And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games as of July 2025.) Menu and Backpack, but not the Main Settings Menu just yet (It'll be out soon, though 
+And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used.) Backpack, but not the Main Settings Menu just yet (It'll be out soon, though 
 :) )
 
 (Currently, only 2015-19 Gui style is done.)
