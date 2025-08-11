@@ -2,16 +2,16 @@
 > Roblox From 2013-19 remade!
 
 Hello and welcome to my side project: **Old Roblox: Reborn!**
-And, yes, I DID use the old chat system (in my own way, since the original ChatService is now depricated and can no longer be used in newer games as of July 2025.) Menu and Backpack Icons and Menus, but not the Main Settings Menu just yet (It'll be out soon, though 
+And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games as of July 2025.) Menu and Backpack, but not the Main Settings Menu just yet (It'll be out soon, though 
 :) )
 
 (Currently, only 2015-19 Gui style is done.)
 
 # Features!
 
-- The ability to use Display Names in the Leaderboard and Chat!
+- The ability to use Display Names in the Leaderboard and Chat or not!
 - The old chat bubble is included, and can be changed at anytime!
-- A setting to have the Player name in Chat be set to a random color on joining, or be based on Team Color!
+- A setting to have the Player name in Chat be set to a random color on joining, or based on Team Color!
 - The old loading Animation! There are currently 2 (Early 2016 & Early 2019!)
 
 # A Quick QnA to make sure of some stuff!
