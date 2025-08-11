@@ -9,7 +9,7 @@ And, yes, I DID use the old Chat System, (in my own way, since the original Chat
 
 # Features!
 
-- The ability to use Display Names in the Leaderboard and Chat or not!
+- The ability to use Display Names in the Leaderboard and Chat, or not if you prefer!
 - The old chat bubble is included, and can be changed at anytime!
 - A setting to have the Player name in Chat be set to a random color on joining, or based on Team Color!
 - The old loading Animation! There are currently 2 (Early 2016 & Early 2019!)
