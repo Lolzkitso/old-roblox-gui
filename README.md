@@ -42,5 +42,7 @@ To install the Old Roblox Gui, first:
 - Right Click > Insert > Insert From File...
 - Import the File, and it should work!
 
+From here you should be done with installing and the file should show up. (If not, please open an [Issue](https://github.com/Lolzkitso/old-roblox-gui/issues/new)).
+
 # Credits!
 - P0s_0 for the old Leaderboard!
