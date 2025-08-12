@@ -36,12 +36,13 @@ No, since most of the code used back in 2020 or older is now depricated. And I w
 # Installation!
 
 To install the Old Roblox Gui, first:
-- Download the Roblox file provided.
-- Enter Roblox Studio
+- Find the version you want
+- Download the Roblox file provided
+- Enter Roblox Studio; Enter a game
 - Right Click > Insert > Insert From File...
 - Import the File, and it should work!
 
 From here you should be done with installing and the file should show up. (If not, please open an [Issue](https://github.com/Lolzkitso/old-roblox-gui/issues/new)).
 
 # Credits!
-- P0s_0 for the old Leaderboard!
+- P0s_0 for creating the old Leaderboard!
