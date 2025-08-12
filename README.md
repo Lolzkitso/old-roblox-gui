@@ -7,6 +7,7 @@ I decided to make this because the old Roblox gui is cool to me, and it's really
 (Currently, only 2015-19 Gui style is done.)
 And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games.) but not the Main Settings Menu just yet (It'll be out soon, though 
 :) )
+
 # Features!
 
 - The ability to use Display Names in the Leaderboard and Chat, or not if you prefer!
@@ -18,7 +19,7 @@ And, yes, I DID use the old Chat System, (in my own way, since the original Chat
 
 > "Is this a scam and are there any viruses?"
 
-Nope! I made sure to make this as authentic as possible! I also triple checked all of the code and there are no hidden backdoors or viruses!
+Nope! I made sure to include everything that I said was added! I also triple checked all of the code and there are no hidden backdoors or viruses!
 
 > "Is this truly all of 2013-19 Guis' and feel?"
 
@@ -31,7 +32,15 @@ Yes! Unfortunatly, though, in an update, the "Compatability" Lighting setting, u
 
 > "Does this contain old code?"
 
-No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell, that can't use old chat.
+No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell that, for example, can't use Legacy Chat.
+
+# Installation!
+
+To install the Old Roblox Gui, first:
+- Download the Roblox file provided.
+- Enter Roblox Studio
+- Right Click > Insert > Insert From File...
+- Import the File, and it should work!
 
 # Credits!
 - P0s_0 for the old Leaderboard!
