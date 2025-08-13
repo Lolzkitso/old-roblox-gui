@@ -4,8 +4,7 @@
 Hello and welcome to my side project: **Old Roblox: Reborn!**
 I decided to make this because the old Roblox gui is cool to me, and it's really fun to play with this kind of stuff.
 
-(Currently, only 2015-19 Gui style is done. And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games.) but not the Main Settings Menu just yet It'll be out soon, though 
-:) )
+(Currently, only 2015-19 Gui style is done. And, yes, I DID use the old Chat System, (in my own way, since the original ChatService is now depricated and can no longer be used in newer games.)
 
 # Features!
 
@@ -13,6 +12,7 @@ I decided to make this because the old Roblox gui is cool to me, and it's really
 - The old chat bubble is included, and can be changed at anytime!
 - A setting to have the Player name in Chat be set to a random color on joining, or based on Team Color!
 - The old loading Animation! There are currently 2 (Early 2016 & Early 2019!)
+- The ability to toggle the Old Gui off and on whenever you want!
 
 # A Quick QnA to make sure of some stuff!
 
@@ -31,7 +31,7 @@ Yes! Unfortunatly, though, in an update, the "Compatability" Lighting setting, u
 
 > "Does this contain old code?"
 
-No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell that, for example, can't use Legacy Chat.
+No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell that, for example, can't use LegacyChatService.
 
 # Installation!
 
