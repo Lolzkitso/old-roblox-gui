@@ -13,6 +13,7 @@ I decided to make this because the old Roblox gui is cool to me, and it's really
 - A setting to have the Player name in Chat be set to a random color on joining, or based on Team Color!
 - The old loading Animation! There are currently 2 (Early 2016 & Early 2019!)
 - The ability to toggle the Old Gui off and on whenever you want!
+- The ability to have forcefields (the lil circle that used to go around the player whenever they respawned) on or off!
 
 # A Quick QnA to make sure of some stuff!
 
@@ -27,11 +28,15 @@ of Roblox Studio from 2020 on side just incase I forget something important.
 
 > "Does this include Skyboxes and Old Lighting?"
 
-Yes! Unfortunatly, though, in an update, the "Compatability" Lighting setting, used in most games, was retired and, a little while ago, it seems like Lighting settings like ShadowMap and Future were removed. (Rip ShadowMap :(, you will be missed)
+Yes! Unfortunatly, though, in an update, the "Compatability" Lighting setting, used in most games, was retired and, a little while ago, it seems like Lighting settings like ShadowMap and Future were also retired. (Rip ShadowMap & Voxel :(, yall will be missed)
 
 > "Does this contain old code?"
 
 No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell that, for example, can't use LegacyChatService.
+
+> "Can you record or take screenshotss?"
+
+I'm pretty sure in Roblox's TOS, it's prohibited to add files to a users' device, so no. But the ui DOES still mimic what will happen when you would take a screenshot or record a video, though.
 
 # Installation!
 
