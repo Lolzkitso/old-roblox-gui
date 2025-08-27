@@ -34,7 +34,7 @@ Yes! Unfortunatly, though, in an update, the "Compatability" Lighting setting, u
 
 No, since most of the code used back in 2020 or older is now depricated. And I want this to work for newer games aswell that, for example, can't use LegacyChatService.
 
-> "Can you record or take screenshotss?"
+> "Can you record or take screenshots?"
 
 I'm pretty sure in Roblox's TOS, it's prohibited to add files to a users' device, so no. But the ui DOES still mimic what will happen when you would take a screenshot or record a video, though.
 
